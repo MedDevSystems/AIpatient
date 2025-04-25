@@ -2,7 +2,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python Version](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-<!-- Добавьте сюда другие бейджи, если они есть (статус сборки, покрытие кода и т.д.) -->
+
 
 **Превратите ваш клинический опыт в интерактивные тренажеры для будущих врачей с помощью ИИ!**
 
