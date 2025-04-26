@@ -1,8 +1,6 @@
 # 🩺 Система Создания Виртуальных Пациентов для Медицинского Образования
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Python Version](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-
+[License: GPL v3]
 
 **Превратите ваш клинический опыт в интерактивные тренажеры для будущих врачей с помощью ИИ!**
 
